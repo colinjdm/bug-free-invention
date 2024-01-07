@@ -1,3 +1,0 @@
-pip install googlemaps
-pip install colorama
-pip install python-dotenv
